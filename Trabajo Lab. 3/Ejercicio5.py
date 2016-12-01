@@ -1,4 +1,4 @@
-#EJERCICIO 4
+#EJERCICIO 5
 #Alejandro Nava Castillo
 n=raw_input('Ingrese nombre' )
 s=map(str,n)
