@@ -6,3 +6,5 @@ if n>=0:
     print "La suma de los numeros hasta", n,"es =",suma
 else:
     print n, "No es entero positivo"
+##Observacionesç
+# Incluir la codificacion
